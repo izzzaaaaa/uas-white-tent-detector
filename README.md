@@ -5,6 +5,9 @@ White-tent detector for a UAS search mission (IEEE NEO competition 2026). A YOLO
 ## Task
 The UAS surveys a defined search boundary, produces a stitched map (.png/.jpeg) and must autonomously detect a white tent placed on the ground.
 
+## Link for Drive
+https://drive.google.com/drive/folders/1RHdzsGHJVl1AwRadlNm-ASCLOhbTy-kE?usp=drive_link
+
 ## Setup and Results
 
 ### Flight and Camera Setup
